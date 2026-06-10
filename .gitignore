@@ -1,11 +1,5 @@
-# Legacy files (kept locally for backward compat, not needed in public repo)
-kba_document.typ
-sample.typ
+# macOS
+.DS_Store
 
-# Thumbnail helper (one-off compile file)
-thumbnail_compile.typ
-page_1.png
-page_2.png
-
-# Author publishing guide (not relevant to users)
-CONTRIBUTING.md
+# Intermediate thumbnail files from typst compile {p} syntax
+page_*.png
