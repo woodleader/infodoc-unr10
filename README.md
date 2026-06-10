@@ -1,4 +1,4 @@
-# ecer10-esainfodoc
+# infodoc-unr10
 
 Bilingual (German/English) **Beschreibungsbogen** (Information Document) for ECE/UN Regulation No. 10 EMC type approval of electric/electronic sub-assemblies (EUB/ESA).
 
@@ -17,7 +17,7 @@ The layout and field numbering follow the official RTF template published by the
 ## Usage
 
 ```typst
-#import "@preview/ecer10-esainfodoc:0.1.0": kba_document
+#import "@preview/infodoc-unr10:0.1.0": kba_document
 
 #show: kba_document.with(
   date: "15.06.2025",

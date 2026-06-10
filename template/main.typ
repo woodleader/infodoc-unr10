@@ -2,7 +2,7 @@
 // Replace all placeholder values with your actual product data.
 // See the README for full parameter documentation.
 
-#import "@preview/ecer10-esainfodoc:0.1.0": kba_document
+#import "@preview/infodoc-unr10:0.1.0": kba_document
 
 #show: kba_document.with(
   date: "15.06.2025",
