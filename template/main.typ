@@ -63,7 +63,7 @@
   // rsce_wert: "66",
   // ─────────────────────────────────────────────────────────────────────────
 
-  // Annex table — list all supporting documents
+  // Annex table — add one entry per supporting document
   anlagen: (
     (
       nr: "1",
@@ -72,38 +72,6 @@
       datum: "15.06.2025",
       rev: "15.06.2025",
       seiten: "3",
-    ),
-    (
-      nr: "2",
-      inhalt: "Variant Overview",
-      doc_nr: "VAR-MYPRODUCT-1.0",
-      datum: "15.06.2025",
-      rev: "15.06.2025",
-      seiten: "1",
-    ),
-    (
-      nr: "3",
-      inhalt: "Label Specification",
-      doc_nr: "LABEL-MYPRODUCT-1.0",
-      datum: "15.06.2025",
-      rev: "15.06.2025",
-      seiten: "1",
-    ),
-    (
-      nr: "4",
-      inhalt: "Assembly Drawing",
-      doc_nr: "DRW-MYPRODUCT-Rev.1",
-      datum: "15.06.2025",
-      rev: "15.06.2025",
-      seiten: "2",
-    ),
-    (
-      nr: "5",
-      inhalt: "Schematic",
-      doc_nr: "SCH-MYPRODUCT-1.0",
-      datum: "15.06.2025",
-      rev: "15.06.2025",
-      seiten: "5",
     ),
   ),
 )
