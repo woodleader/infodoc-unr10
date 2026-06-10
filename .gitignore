@@ -1,0 +1,11 @@
+# Legacy files (kept locally for backward compat, not needed in public repo)
+kba_document.typ
+sample.typ
+
+# Thumbnail helper (one-off compile file)
+thumbnail_compile.typ
+page_1.png
+page_2.png
+
+# Author publishing guide (not relevant to users)
+CONTRIBUTING.md
